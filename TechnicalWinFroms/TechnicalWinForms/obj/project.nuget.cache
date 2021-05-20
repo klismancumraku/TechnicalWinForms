@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vOwPTJ2tKrk1ut2uQOVPFi6XPJQ9OtibzQrtLEg4O6qeGmUuvO/wEEQdFgzmlz+lOBtb10X0V0KLELaZk57o9A==",
+  "dgSpecHash": "iHutZhZxBMuLcLUJaN6Q1HYgkvR6KWr1ObNooYF6f/tsG264G7C2h+/fepV9fFYY9y3lYDRriUnFMHRnYU0dPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CRS\\Desktop\\C#\\TechnicalWindowsForm\\TechnicalWinForms\\TechnicalWinFroms\\TechnicalWinForms\\TechnicalWinForms.csproj",
+  "projectFilePath": "C:\\Users\\CRS\\Desktop\\WinForm\\TechnicalWinForms\\TechnicalWinFroms\\TechnicalWinForms\\TechnicalWinForms.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CRS\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\CRS\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

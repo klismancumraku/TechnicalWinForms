@@ -460,11 +460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CRS\\Desktop\\C#\\TechnicalWindowsForm\\TechnicalWinForms\\TechnicalWinFroms\\TechnicalWinForms\\TechnicalWinForms.csproj",
+      "projectUniqueName": "C:\\Users\\CRS\\Desktop\\WinForm\\TechnicalWinForms\\TechnicalWinFroms\\TechnicalWinForms\\TechnicalWinForms.csproj",
       "projectName": "TechnicalWinForms",
-      "projectPath": "C:\\Users\\CRS\\Desktop\\C#\\TechnicalWindowsForm\\TechnicalWinForms\\TechnicalWinFroms\\TechnicalWinForms\\TechnicalWinForms.csproj",
+      "projectPath": "C:\\Users\\CRS\\Desktop\\WinForm\\TechnicalWinForms\\TechnicalWinFroms\\TechnicalWinForms\\TechnicalWinForms.csproj",
       "packagesPath": "C:\\Users\\CRS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CRS\\Desktop\\C#\\TechnicalWindowsForm\\TechnicalWinForms\\TechnicalWinFroms\\TechnicalWinForms\\obj\\",
+      "outputPath": "C:\\Users\\CRS\\Desktop\\WinForm\\TechnicalWinForms\\TechnicalWinFroms\\TechnicalWinForms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
